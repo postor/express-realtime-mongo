@@ -1,0 +1,34 @@
+{
+  "name": "express-realtime-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postor/express-realtime-mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/postor/express-realtime-mongo/issues"
+  },
+  "homepage": "https://github.com/postor/express-realtime-mongo#readme",
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "next": "^10.0.2",
+    "random-name": "^0.1.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "express-sse": "^0.5.3",
+    "mongodb-change-watcher": "^1.0.0"
+  }
+}
